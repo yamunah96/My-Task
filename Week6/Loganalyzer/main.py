@@ -3,7 +3,7 @@ warning_occurrences=0
 info_occurrences=0
 with open("application.log","r") as file:
     with open("errors.txt","a") as errorfile:
-        with open("warings.txt","a") as waringfile:
+        with open("warnings.txt","a") as waringfile:
             datafile =file.readlines()
             print(f"The total log is {len(datafile)}")
             for line in datafile:
