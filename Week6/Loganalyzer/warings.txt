@@ -1,6 +1,0 @@
-31-08-2026 18:03:18:PM | WARNING | system | Memory usage high | Usage: 85%
-31-08-2026 18:09:27:PM | WARNING | server | High CPU usage detected | Usage: 92%
-31-08-2026 18:13:22:PM | WARNING | storage | Disk space running low | Available: 10GB
-31-08-2026 18:17:55:PM | WARNING | network | Network latency increased | Latency: 450ms
-31-08-2026 18:22:45:PM | WARNING | application | Slow response detected | ResponseTime: 3.5s
-31-08-2026 18:26:29:PM | WARNING | security | Multiple failed login attempts detected | IP: 192.168.1.10
