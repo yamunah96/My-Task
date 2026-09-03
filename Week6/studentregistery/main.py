@@ -58,8 +58,8 @@ with open("student_data.txt","r") as readfile:
   print("Backup file created successfully")
 
 # Create another file containing only names and courses.
-with open("/content/student_data.txt","r") as readfile:
-  with open("/content/name_course.txt","a") as appendfile:
+with open("student_data.txt","r") as readfile:
+  with open("name_course.txt","a") as appendfile:
     data= readfile.readlines()
     for record in data:
       student= record.strip().split(",")
