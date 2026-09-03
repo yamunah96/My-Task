@@ -1,0 +1,11 @@
+Yamuna,Python
+Ananya,Machine Learning
+Rahul,Data Science
+Priya,Python
+Arjun,Deep Learning
+Neha,Data Analytics
+Rohan,Python
+Ishita,Machine Learning
+Karan,Data Science
+Meera,Python
+usha,python
