@@ -26,7 +26,7 @@ city=input("Enter city: ")
 
 
 record=f"{student_id},{name},{email},{phone},{course},{city}"
-with open("/content/student_data.txt","a") as file:
+with open("student_data.txt","a") as file:
   file.write(record+"\n")
 print("Student registered successfully")
 
