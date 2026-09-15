@@ -1,0 +1,22 @@
+Scenario: You are working as a junior data analyst for an e-commerce company.
+Create fictional sales data for 12 months.
+1. Track
+2. Revenue
+3. Orders
+4. Customers
+5. Expenses
+
+Requirements
+
+- Store monthly revenue using NumPy.
+- Calculate total annual revenue.
+- Calculate average monthly revenue.
+- Find the best-performing month.
+- Find the lowest-performing month.
+- Calculate month-to-month revenue differences.
+- Create a line chart showing revenue trends.
+- Create a bar chart showing monthly orders.
+- Create a comparison graph for Revenue,Expenses
+- Create customer-growth visualization.
+- Calculate profit Profit = Revenue - Expenses and visualize monthly profit.
+- Create one final visualization that you believe gives management the best understanding of company performance.
