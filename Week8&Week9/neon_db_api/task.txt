@@ -1,0 +1,17 @@
+Move from temporary Python data to a real PostgreSQL database hosted on Neon DB.
+
+Create a database containing
+
+students
+
+courses
+
+enrollments
+
+Define proper primary keys, foreign keys, constraints, timestamps, and relationships.
+
+Build APIs for creating students, creating courses, enrolling a student, viewing enrollments, updating records, and deleting records.
+
+Students must demonstrate that data remains available even after restarting the API server.
+
+Important: Database credentials must come from .env and must never be committed to GitHub.
